@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  apiUrl: 'https://notification-pi-eight.vercel.app/',
+  apiUrl: 'https://notificationapi-4ec2.onrender.com',
 };
